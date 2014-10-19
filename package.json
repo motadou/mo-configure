@@ -1,0 +1,16 @@
+{
+    "main"          : "configure.js",
+		"name"          : "mo-configure",
+  	"version"       : "0.0.5",
+  	"description"   : "Motadou Util Tools For NodeJS (Parse Configure File)",
+  	"homepage"      : "http://www.cnblogs.com/motadou",
+  	"author"        : {
+    	"name" : "motadou",
+    	"email": "motadou@126.com",
+    	"url"  : "http://www.cnblogs.com/motadou"
+  	},
+  	"keywords"      : [
+    	"configure",
+    	"json"
+  	]
+}
