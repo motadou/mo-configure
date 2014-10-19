@@ -1,7 +1,7 @@
 {
     "main"          : "configure.js",
 		"name"          : "mo-configure",
-  	"version"       : "0.0.7",
+  	"version"       : "0.1.4",
   	"description"   : "Motadou Util Tools For NodeJS (Parse Configure File)",
   	"homepage"      : "http://www.cnblogs.com/motadou",
   	"author"        : {
