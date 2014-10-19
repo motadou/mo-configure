@@ -26,3 +26,4 @@ console.log(config.get("main.log.filename"));
 //例子三：返回一个JSON对象
 var ipinfo = config.get("main.server.ipinfo");
 console.log(ipinfo);
+console.log(ipinfo[0].host);
